@@ -506,6 +506,78 @@ body {
               <option class="Valenzuela">Wawang Pulo</option>
               <option class="Quezon">Alicia</option>
               <option class="Quezon">Amihan</option>
+	      <option class="Quezon">Apolonio Samson</option>
+	      <option class="Quezon">Aurora</option>
+	      <option class="Quezon">Baesa</option>
+	      <option class="Quezon">Bagbag</option>
+	      <option class="Quezon">Bagong Lipunan ng Crame</option>
+	      <option class="Quezon">Bagong Pag-asa</option>
+	      <option class="Quezon">Bagong Silangan</option>
+	      <option class="Quezon">Bagumbayan</option>
+	      <option class="Quezon">Bagumbuhay</option>
+	      <option class="Quezon">Bahay Toro</option>
+	      <option class="Quezon">Balingasa</option>
+	      <option class="Quezon">Balong bato</option>
+	      <option class="Quezon">Batasan Hills</option>
+	      <option class="Quezon">Bayanihan</option>
+	      <option class="Quezon">Blue Ridge A</option>
+	      <option class="Quezon">Blue Ridge B</option>
+	      <option class="Quezon">Botocan</option>
+	      <option class="Quezon">Bungad</option>
+	      <option class="Quezon">Camp Aguinaldo</option>
+	      <option class="Quezon">Capri</option>
+	      <option class="Quezon">Central</option>
+	      <option class="Quezon">Claro</option>
+	      <option class="Quezon">Commonwealth</option>
+	      <option class="Quezon">Culiat</option>
+	      <option class="Quezon">Damar</option>
+	      <option class="Quezon">Damayan</option>
+	      <option class="Quezon">Damayang Lagi</option>
+	      <option class="Quezon">Del Monte</option>
+	      <option class="Quezon">Dioquino Zobel</option>
+	      <option class="Quezon">Doña Imelda</option>
+	      <option class="Quezon">Doña Josefa</option>
+	      <option class="Quezon">Don Manuel</option>
+	      <option class="Quezon">Duyan-Duyan</option>
+	      <option class="Quezon">East Kamias</option>
+	      <option class="Quezon">E. Rodriguez</option>
+	      <option class="Quezon">Escopa I</option>
+	      <option class="Quezon">Escopa II</option>
+	      <option class="Quezon">Escopa III</option>
+	      <option class="Quezon">Escopa IV</option>
+	      <option class="Quezon">Fairview</option>
+	      <option class="Quezon">Greater Largo</option>
+	      <option class="Quezon">Gulod</option>
+	      <option class="Quezon">Holy Spirit</option>
+	      <option class="Quezon">Horseshoe</option>
+	      <option class="Quezon">Immaculate Concepcion</option>
+	      <option class="Quezon">Kaligayan</option>
+	      <option class="Quezon">Kalusugan</option>
+	      <option class="Quezon">Kamuning</option>
+	      <option class="Quezon">Katipunan</option>
+	      <option class="Quezon">Kaunlaran</option>
+	      <option class="Quezon">Kristong Hari</option>
+	      <option class="Quezon">Laging Handa</option>
+	      <option class="Quezon">Libis</option>
+	      <option class="Quezon">Lourdes</option>
+	      <option class="Quezon">Loyola Heights</option>
+	      <option class="Quezon">Maharlika</option>
+	      <option class="Quezon">Malaya</option>
+	      <option class="Quezon">Mangga</option>
+	      <option class="Quezon">Manresa</option>
+	      <option class="Quezon">Mariana</option>
+	      <option class="Quezon">Mariblo</option>
+	      <option class="Quezon">Marilag</option>
+	      <option class="Quezon">Masagana</option>
+	      <option class="Quezon">Masambong</option>
+              <option class="Quezon">Matandang Balara</option>
+	      <option class="Quezon">Milagrosa</option>
+	      <option class="Quezon"></option>
+		      <option class="Quezon"></option>
+		    
+
+
+
 
               <option>...</option>
               </select required>
